@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;700;900&display=swap');
+body{font-family:'Inter',sans-serif}
+.mono{font-family:'JetBrains Mono',monospace}
+html{scroll-behavior:smooth}
+::-webkit-scrollbar{width:8px}
+::-webkit-scrollbar-track{background:#0a0e13}
+::-webkit-scrollbar-thumb{background:#1f2937;border-radius:10px}
+::-webkit-scrollbar-thumb:hover{background:#00ff88}
+.skill{transition:all.3s}
+.skill:hover{transform:translateY(-4px);border-color:#00ff88!important;box-shadow:0 10px 30px rgba(0,255,136,0.15)}
