@@ -1,0 +1,5 @@
+outs:
+- md5: 8af3abdcd22623a3fc510bbb9c8020de
+  size: 71749
+  hash: md5
+  path: demo.png
